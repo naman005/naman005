@@ -24,7 +24,7 @@ I'm a passionate web developer focused on building modern, performant, and user-
 - Exploring tools and techniques to build scalable full-stack apps
 
 ## 🛠️ Tech Stack
-- **Languages**: JavaScript, TypeScript, HTML, CSS, SQL
+- **Languages**: JavaScript, HTML, CSS, SQL
 - **Frameworks/Libraries**: React, Node.js, Express, Next.js
 - **Databases**: MongoDB, PostgreSQL
 - **Tools**: Git, GitHub, VS Code, Postman
